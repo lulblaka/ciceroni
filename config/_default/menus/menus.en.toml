@@ -1,0 +1,47 @@
+[[main]]
+  name = "Ballina"
+  url = "/en/"
+  weight = 1
+
+[[main]]
+  name = "Politikë"
+  url = "/tags/Politikë/"
+  weight = 2
+
+[[main]]
+  name = "Ekonomi"
+  url = "/tags/Ekonomi/"
+  weight = 3
+
+[[main]]
+  name = "Sport"
+  url = "/tags/Sport/"
+  weight = 4
+
+[[main]]
+  name = "Lifestyle"
+  url = "/tags/Lifestyle/"
+  weight = 5
+
+[[main]]
+  name = "Religjion"
+  url = "/tags/Religjion/"
+  weight = 6
+
+[[social]]
+  name = "Facebook"
+  pre = "<i class=\"fab fa-facebook fa-2x\"></i>"
+  url = "https://facebook.com/"
+  weight = 1
+
+[[social]]
+  name = "TikTok"
+  pre = "<i class=\"fab fa-tiktok fa-2x\"></i>"
+  url = "https://tiktok.com/"
+  weight = 2
+
+[[social]]
+  name = "Medium"
+  pre = "<i class=\"fab fa-instagram fa-2x\"></i>"
+  url = "https://instagram.com/"
+  weight = 3
