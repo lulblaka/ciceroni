@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hinode</title>
+    <link>https://hinode-demo.ciceroni.org/en/tags/</link>
+    <description>Recent content in Tags on Hinode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2022 Ciceroni</copyright>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hinode-demo.ciceroni.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bootstrap</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/bootstrap/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/shortcode/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/code/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/css/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/html/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/markdown/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/emoji/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/golang/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/javascript/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/privacy/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://hinode-demo.ciceroni.org/en/tags/shortcodes/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hinode-demo.ciceroni.org/en/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+name = "Hinode"
+license = "MIT"
+licenselink = "https://github.com/ciceroni/hugo-theme-hinode/blob/main/LICENSE"
+homepage = "https://github.com/ciceroni/hugo-theme-hinode"
+tags = ["blog", "minimal", "modern", "customizable", "search", "bootstrap"]
+features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts"]
+min_version = "0.81.0"
+
